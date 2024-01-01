@@ -46,6 +46,7 @@ const Countdown = () => {
           <h1 className="text-5xl font-extrabold">Countdown</h1>
           <h3>Faltan {countdown.dias} dias, {countdown.horas} horas, {countdown.minutos} minutos, {countdown.segundos} segundos para...</h3>
           <h2>2024</h2>
+          <a href="https://fancy-syrniki-934b11.netlify.app/" className="rounded-lg bg-white text-black mt-20 p-3" target="_blank">Press Button</a>
         </div>
       </article>
     </section>
