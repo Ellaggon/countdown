@@ -8,7 +8,7 @@ const Countdown = () => {
     segundos: "00",
   });
   
-  const date = "Jan, 1, 2024 00:00:00";
+  const date = "Feb, 1, 2024 00:00:00";
   
   useEffect(() => {
     const countdownTempo = setInterval(() => {
